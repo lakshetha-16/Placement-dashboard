@@ -1,0 +1,7 @@
+{
+"trends":[{"year":"2022","placed":212,"companies":38},{"year":"2023","placed":248,"companies":46},{"year":"2024","placed":281,"companies":52},{"year":"2025","placed":305,"companies":61}],
+"announcements":[
+{"id":"a1","type":"Announcement","title":"Placement orientation","message":"Mandatory orientation for all final-year students on 12 Oct, 10:00 AM in the main auditorium."},
+{"id":"a2","type":"Company update","title":"Zoho drive confirmed","message":"Zoho will conduct its written test on campus. Carry your college ID."},
+{"id":"a3","type":"Announcement","title":"Resume freeze","message":"Upload your final resume to the portal before 18 Oct. Edits are locked after that."}
+]}

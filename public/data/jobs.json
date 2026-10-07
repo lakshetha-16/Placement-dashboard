@@ -1,0 +1,10 @@
+[
+{"id":1,"company":"Zoho","role":"Software Developer","location":"Chennai","type":"Full-time","package":"8 LPA","deadline":"2026-10-20","skills":["Java","DSA","SQL"],"description":"Build product features for Zoho's SaaS suite. Written test, technical and HR rounds."},
+{"id":2,"company":"Freshworks","role":"Data Analyst Intern","location":"Chennai","type":"Internship","package":"30K / month","deadline":"2026-10-15","skills":["Python","Pandas","SQL"],"description":"Analyse customer data and build dashboards for the product team."},
+{"id":3,"company":"TCS Digital","role":"Associate Engineer","location":"Hyderabad","type":"Full-time","package":"7 LPA","deadline":"2026-11-05","skills":["Python","Problem Solving"],"description":"Digital track hiring with online aptitude and coding assessment."},
+{"id":4,"company":"Infosys","role":"Systems Engineer","location":"Bengaluru","type":"Full-time","package":"6.5 LPA","deadline":"2026-11-12","skills":["Java","SQL","Communication"],"description":"Join the specialist programmer pipeline after a three-round assessment."},
+{"id":5,"company":"Kissflow","role":"ML Engineer Intern","location":"Remote","type":"Internship","package":"25K / month","deadline":"2026-10-28","skills":["Python","TensorFlow","NLP"],"description":"Work on document understanding models with the AI team."},
+{"id":6,"company":"Cognizant","role":"Programmer Analyst","location":"Chennai","type":"Full-time","package":"5.5 LPA","deadline":"2026-11-20","skills":["Python","SQL","Aptitude"],"description":"Mass hiring drive with aptitude, coding and HR interview."},
+{"id":7,"company":"Mu Sigma","role":"Decision Scientist","location":"Bengaluru","type":"Full-time","package":"7.5 LPA","deadline":"2026-11-08","skills":["Statistics","Python","Machine Learning"],"description":"Solve business problems with data science and present insights to clients."},
+{"id":8,"company":"Capgemini","role":"Analyst","location":"Pune","type":"Full-time","package":"4.5 LPA","deadline":"2026-12-01","skills":["Java","Aptitude"],"description":"Entry-level analyst role with a game-based aptitude round."}
+]
